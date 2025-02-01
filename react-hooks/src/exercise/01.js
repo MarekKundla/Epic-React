@@ -29,7 +29,7 @@ function Greeting() {
 
 // Extra Credit 1
 
-// function Greeting({initialName}) {
+// function Greeting({initialName = ''}) {
 
 //     const [name, setName] = React.useState(initialName)
 
